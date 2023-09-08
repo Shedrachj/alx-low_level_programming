@@ -1,8 +1,7 @@
-#include <stdio.g>
+#include <stdio.h>
 
 /**
  * main - this is the man function
- *
  * Return: always 0
  */
 
